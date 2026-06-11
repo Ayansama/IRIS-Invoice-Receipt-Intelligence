@@ -1,0 +1,59 @@
+{
+  "vendor": "LIGHTROOM GALLERY SDN BHD",
+  "date": "20-11-2017",
+  "invoice_number": null,
+  "total": 45.29,
+  "currency": "MYR",
+  "line_items": [
+    {
+      "description": "YE3G6 BK 12W WW LED TRACK LIGHT",
+      "quantity": 2,
+      "unit_price": 45.29,
+      "total_price": 5.43,
+      "tax_code": "RM"
+    },
+    {
+      "description": "YE44 35W WW BK TRACK HOLDER",
+      "quantity": 1,
+      "unit_price": 9.34,
+      "total_price": 155.66,
+      "tax_code": "RM"
+    },
+    {
+      "description": "IMETER TRACK-BK",
+      "quantity": 1,
+      "unit_price": 16.99,
+      "total_price": 1.01,
+      "tax_code": "RM"
+    }
+  ],
+  "tax_summary": {},
+  "kv_pairs": {
+    "no": "28, JALAN ASTANA 1C",
+    "roc no.": "(1072825-A)",
+    "gst no.": "000584089600",
+    "tel": "03-3362 4395 Fax:03-3362 4395",
+    "station": "CASHIER C/N",
+    "cashier": "No: LCNO0212",
+    "angela cover": "1",
+    "bill date": "20/11/2017",
+    "bill start": "20/11/2017 03:57:01 PM",
+    "code": "300-E0009",
+    "name": "ESWARAN 012-6369400",
+    "sub total": "RM 263, 02",
+    "service charge": "RM 0), 00",
+    "gst/tax 6": "RM 15. 78",
+    "tot": "RM 278.80",
+    "change": "EM OOO",
+    "ttem count": "4",
+    "qty count": "4.0",
+    "closed bill": "20/11/2017 04:01:23 PM"
+  },
+  "metadata": {
+    "pipeline_version": "1.0",
+    "ocr_engine": "tesseract",
+    "processed_at": "2026-04-25T02:46:18.742544",
+    "pages_processed": 1,
+    "avg_confidence": 80.9
+  }
+}
